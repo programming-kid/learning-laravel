@@ -44,6 +44,32 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 * [Implementing Laravel] (https://leanpub.com/implementinglaravel) by [Chris Fidao] (https://twitter.com/fideloper)
 * [Getting Stuff Done with Laravel 4] (https://leanpub.com/gettingstuffdonelaravel) by [Chuck Heintzelman] (https://twitter.com/storychuck)
 
+## Laravel Essentials
+
+* [Laravel cheat Sheet] (http://cheats.jesse-obrien.ca/) by [Jesse Obrien] (https://github.com/JesseObrien)
+* [Laravel Registry] (http://registry.autopergamene.eu/) by [Maxime Fabre] (https://github.com/Anahkiasen)
+* [Laravel Community] (http://laravel.io/)
+* [Laracasts] (https://laracasts.com/)
+
+## Laravel Videos
+
+### Beginner
+* [Laravel 4 Update] (http://vimeo.com/63892510)
+* [Laravel 4 - Basic Routing & Composers] (http://vimeo.com/52867593)
+* [Laravel 4 - Controllers & Filters](http://vimeo.com/52964368)
+* [Laravel 4 - Migrations & Seeding](http://vimeo.com/53701204)
+* [Laravel 4 - Eloquent Collections & Polymorphic Relations] (http://vimeo.com/53183075)
+* [Laravel 4 - Error Handling] (http://vimeo.com/53445935)
+* [Laravel 4 - Mail](http://vimeo.com/53701740)
+
+
+### Advanced
+* [Laravel 4 - Iron.io Push Queues & Closures] (http://vimeo.com/64703617)
+* [Laravel 4 - IoC Controller Injection & Unit Testing] (http://vimeo.com/53029232)
+* [Laravel 4 - IoC Container Basics] (http://vimeo.com/53009943)
+* [Laravel 4 - Mail::queue and Mail::later](http://vimeo.com/64779946)
+
+
 ## Laravel Articles
 ##### newest to oldest
 

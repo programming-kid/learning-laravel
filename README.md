@@ -50,6 +50,9 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 * [Laravel Registry] (http://registry.autopergamene.eu/) by [Maxime Fabre] (https://github.com/Anahkiasen)
 * [Laravel Community] (http://laravel.io/)
 * [Laracasts] (https://laracasts.com/)
+* [Laravel 4 Blade Syntax Highlighter] (https://github.com/Medalink/Laravel-Blade)
+* [Laravel 4 snippets] (https://github.com/bliker/laravel4-snippets)
+* [Laravel on StackOverflow] (http://stackoverflow.com/questions/tagged/laravel)
 
 ## Laravel Videos
 

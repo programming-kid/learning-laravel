@@ -91,3 +91,31 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 * [What to Expect From Laravel 4] (http://net.tutsplus.com/tutorials/php/what-to-expect-from-laravel-4/)
 * [Build Web Apps From Scratch With Laravel: Filters, Validations, and Files] (http://net.tutsplus.com/tutorials/php/build-web-apps-from-scratch-with-laravel-filters-validations-and-files/)
 * [Build Web Apps from Scratch with Laravel – The Eloquent ORM] (http://net.tutsplus.com/tutorials/php/build-web-apps-from-scratch-with-laravel-the-eloquent-orm/)
+
+### Culttt
+
+* [What is MVC? (Model-View-Controller)] (http://culttt.com/2012/11/19/what-is-mvc-model-view-controller/)
+* [Getting started with Laravel 4] (http://culttt.com/2013/04/29/getting-started-with-laravel-4/)
+* [Laravel 4 Migrations] (http://culttt.com/2013/05/06/laravel-4-migrations/)
+* [Setting up your first Laravel 4 Model] (http://culttt.com/2013/05/13/setting-up-your-first-laravel-4-model/)
+* [Getting started with testing Laravel 4 Models] (http://culttt.com/2013/05/20/getting-started-with-testing-laravel-4-models/)
+* [Laravel 4 Fixture Replacement with FactoryMuff] (http://culttt.com/2013/05/27/laravel-4-fixture-replacement-with-factorymuff/)
+* [Creating the Twitter following model in Laravel 4] (http://culttt.com/2013/06/03/creating-the-twitter-following-model-in-laravel-4/)
+* [Laravel 4 Eloquent Model Relationships] (http://culttt.com/2013/06/10/laravel-4-eloquent-model-relationships/)
+* [Setting up Vagrant with Laravel 4] (http://culttt.com/2013/06/17/setting-up-vagrant-with-laravel-4/)
+* [Creating a Laravel 4 package] (http://culttt.com/2013/06/24/creating-a-laravel-4-package/)
+* [Setting up your first Laravel 4 Controller] (http://culttt.com/2013/07/01/setting-up-your-first-laravel-4-controller/)
+* [Creating flexible Controllers in Laravel 4 using Repositories] (http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-repositories/)
+* [How to structure testable Controllers in Laravel 4] (http://culttt.com/2013/07/15/how-to-structure-testable-controllers-in-laravel-4/)
+* [Getting started with Mockery] (http://culttt.com/2013/07/22/getting-started-with-mockery/)
+* [Creating Laravel 4 Validation Services] (http://culttt.com/2013/07/29/creating-laravel-4-validation-services/)
+* [Extending Eloquent in Laravel 4] (http://culttt.com/2013/08/05/extending-eloquent-in-laravel-4/)
+* [Building out RESTful Controller methods in Laravel 4] (http://culttt.com/2013/08/12/building-out-restful-controller-methods-in-laravel-4/)
+* [Creating forms in Laravel 4] (http://culttt.com/2013/08/19/creating-forms-in-laravel-4/)
+* [Routing in Laravel 4] (http://culttt.com/2013/08/26/routing-laravel-4/)
+* [Using Blade in Laravel 4] (http://culttt.com/2013/09/02/using-blade-laravel-4/)
+* [Registration and Authentication in Laravel 4] (http://culttt.com/2013/09/09/registration-authentication-laravel-4/)
+* [How to use Laravel 4 Filters] (http://culttt.com/2013/09/16/use-laravel-4-filters/)
+* [Password reminders and reset in Laravel 4] (http://culttt.com/2013/09/23/password-reminders-reset-laravel-4/)
+
+

@@ -33,6 +33,8 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 
 * [Laravel Twitter] (https://twitter.com/laravelphp)
 * [Laravel Facebook Group] (https://www.facebook.com/groups/LaravelCommunity/)
+* [Laravel on Reddit] (http://www.reddit.com/r/laravel/)
+* [Php on Reddit] (http://www.reddit.com/r/PHP/)
 
 
 
@@ -118,4 +120,9 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 * [How to use Laravel 4 Filters] (http://culttt.com/2013/09/16/use-laravel-4-filters/)
 * [Password reminders and reset in Laravel 4] (http://culttt.com/2013/09/23/password-reminders-reset-laravel-4/)
 
+### CodeForest
 
+* [Laravel 4 – simple website with backend tutorial – Part 1] (http://www.codeforest.net/laravel4-simple-website-with-backend-1)
+* [Laravel 4 tutorial – simple website with backend – Part 2] (http://www.codeforest.net/laravel-4-tutorial-part-2)
+* [Laravel 4 tutorial – validation and front end – part 3] (http://www.codeforest.net/laravel-4-tutorial-validation-frontend)
+* [Laravel 4 images, themes and error pages - part 4] (http://www.codeforest.net/laravel-4-images-themes-and-error-pages)

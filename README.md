@@ -62,7 +62,7 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 
 
 * [Taylor Otwell - Building Artisan Commands ] (https://www.youtube.com/watch?v=fGwnCWfzLRI)
-* [Fabien Potencier - Standardization, the Symfony Way ] (https://www.youtube.com/watch?v=fGwnCWfzLRI)
+* [Fabien Potencier - Standardization, the Symfony Way ] (https://www.youtube.com/watch?v=0erGiEm07b8)
 
 
 ## Laravel Videos

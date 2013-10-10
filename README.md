@@ -56,6 +56,15 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 * [Laravel 4 snippets] (https://github.com/bliker/laravel4-snippets)
 * [Laravel on StackOverflow] (http://stackoverflow.com/questions/tagged/laravel)
 
+## LaravelConf
+
+### Laracon EU 2013
+
+
+* [Taylor Otwell - Building Artisan Commands ] (https://www.youtube.com/watch?v=fGwnCWfzLRI)
+* [Fabien Potencier - Standardization, the Symfony Way ] (https://www.youtube.com/watch?v=fGwnCWfzLRI)
+
+
 ## Laravel Videos
 
 ### Beginner

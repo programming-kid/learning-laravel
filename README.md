@@ -135,3 +135,8 @@ Resources to getting up and running with Laravel. We all love Laravel framework 
 * [Laravel 4 tutorial – simple website with backend – Part 2] (http://www.codeforest.net/laravel-4-tutorial-part-2)
 * [Laravel 4 tutorial – validation and front end – part 3] (http://www.codeforest.net/laravel-4-tutorial-validation-frontend)
 * [Laravel 4 images, themes and error pages - part 4] (http://www.codeforest.net/laravel-4-images-themes-and-error-pages)
+
+### SitePoint
+
+* [Creating a Subscription-Based Website with Laravel and Recurly, Part 1] (http://www.sitepoint.com/creating-subscription-based-website-laravel-recurly-1/)
+* [Creating a Subscription-Based Website with Laravel and Recurly, Part 2] (http://www.sitepoint.com/creating-subscription-based-website-laravel-recurly-2/)
